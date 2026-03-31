@@ -1,2 +1,2 @@
-# ankkit_calci
-A calculator
+# AnkKitCalci
+- Calculator made for extending 
